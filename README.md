@@ -1,1 +1,1 @@
-# AzureDemo
+# Azure-DE-Project-Resources
